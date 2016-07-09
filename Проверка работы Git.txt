@@ -1,2 +1,3 @@
 Проверка работы Git
-zzzz
+zzzzgi
+asdfasdf
